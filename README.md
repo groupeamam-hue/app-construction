@@ -1,6 +1,6 @@
 # 🧱 MOMAZ - Application Streamlit
 
-Cette application permet de [décrire brièvement ce que fait l’app — par exemple : gérer des mots de passe, analyser des données, etc.].
+Cette application permet de [décrire brièvement ce que fait l’app — par exemple : gérer des mots de passe, analyser des photos, etc.].
 
 ## 🔗 Accès à l'application en ligne
 👉 [Lien à insérer une fois l’app déployée]
@@ -20,7 +20,7 @@ Cette application permet de [décrire brièvement ce que fait l’app — par ex
 
 ## 👤 Auteur
 Développée par Moulay  
-GitHub : [`groupeam-hue`](https://github.com/groupeam-hue)
+GitHub : [`groupemam-hue`](https://github.com/groupemam-hue)
 
 ## 📄 Licence
-Ce projet est open-source. Vous pouvez le réutiliser ou le modifier selon vos besoins.# app-construction
+Ce projet est open-source. Vous pouvez le réutiliser ou le modifier selon vos besoins.
